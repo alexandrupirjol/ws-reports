@@ -1,0 +1,22 @@
+{
+  "name": "ws-reports",
+  "version": "1.0.0",
+  "description": "WS (Bento) projects code reports",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexandrupirjol/ws-reports.git"
+  },
+  "author": "alexandru.pirjol@3pillarglobal.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexandrupirjol/ws-reports/issues"
+  },
+  "homepage": "https://github.com/alexandrupirjol/ws-reports#readme",
+  "devDependencies": {
+    "plato": "^1.5.0"
+  }
+}
